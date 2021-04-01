@@ -86,6 +86,7 @@ module.exports = {
                         message.channel.send(emb);
                     });
             break;
+            case 'puasa':
         }
     }
 }
